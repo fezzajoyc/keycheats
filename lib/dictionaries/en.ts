@@ -3,7 +3,7 @@
 const en = {
   brand: "KeyCheats",
   tagline: "Keyboard shortcut sheets that stay accurate.",
-  metaDesc: "Searchable, printable keyboard shortcut sheets for VS Code, macOS, Windows, Chrome and GitHub. Real descriptions, Mac ⇄ Windows key mapping — everything runs in your browser.",
+  metaDesc: "Searchable, printable keyboard shortcut sheets for VS Code, macOS, Windows, Chrome and GitHub. Real descriptions, Mac ⇄ Windows mapping — free.",
 
   nav: {
     tools: "All tools",
