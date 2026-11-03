@@ -80,6 +80,7 @@ const de = {
   },
 
   common: {
+    openTool: "Werkzeug öffnen",
     copy: "Kopieren",
     copied: "Kopiert",
     download: "Herunterladen",
